@@ -1,0 +1,29 @@
+{
+  "name": "happiness-scss-config",
+  "version": "1.0.0",
+  "description": "Config file for happiness-scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dutchenkoOleg/happiness-scss-config.git"
+  },
+  "author": "Oleg Dutchenko <dutchenko.o.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dutchenkoOleg/happiness-scss-config/issues"
+  },
+  "homepage": "https://github.com/dutchenkoOleg/happiness-scss-config#readme",
+  "keywords": [
+    "code-style",
+    "happiness",
+    "happiness-scss",
+    "scss",
+    "sass",
+    "linter",
+    "scss-lint",
+    "sass-lint",
+    "config"
+  ]
+}
