@@ -1,6 +1,8 @@
 # happiness-scss-config
 
-Config file for [happiness-scss](https://github.com/dutchenkoOleg/happiness-scss)
+> Config file for [happiness-scss](https://github.com/dutchenkoOleg/happiness-scss)
+
+[![Happiness SCSS Style](https://cdn.rawgit.com/dutchenkoOleg/happiness-scss/master/badge.svg)](https://github.com/dutchenkoOleg/happiness-scss)
 
 ## Install
 
